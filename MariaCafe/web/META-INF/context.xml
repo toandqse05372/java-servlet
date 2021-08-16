@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/LAB_MariaCafe">
+    <Environment name="myConnection" value="jdbc:sqlserver://localhost:1433;databaseName=MariaCafeDB1_" type="java.lang.String"/>
+    <Environment name="dbUsername" value="sa" type="java.lang.String"/>
+    <Environment name="dbPassword" value="sa" type="java.lang.String"/>
+    <Environment name="imagePath" value="images/" type="java.lang.String"/>
+</Context>
